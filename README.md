@@ -8,4 +8,4 @@ This scriptscript loops through all the stocks from 2014 - 2016 and output the f
  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
  * The total stock volume of the stock.
- * Furthermore, it includes conditional formatting that highlights positive change in green and negative change in red.
+ * Furthermore, it includes conditional formatting that highlights positive changes in green and negative changes in red.
