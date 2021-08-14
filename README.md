@@ -1,6 +1,6 @@
 # VBA-challenge
 VBA challenge: The VBA of Wall Street
-...
+..
 In this homework assignment, I used VBA scripting to analyze real stock market data.
 
 This scriptscript loops through all the stocks from 2014 - 2016 and output the following information.
